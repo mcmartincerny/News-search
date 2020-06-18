@@ -1,0 +1,13 @@
+{
+	"root": true,
+	"env": {
+		"es6": true,
+		"jasmine": true
+	},
+	"plugins": ["@typescript-eslint"],
+	"extends": ["eslint:recommended"],
+	"parserOptions": {
+		"ecmaVersion": 2018,
+		"sourceType": "module"
+	}
+}
